@@ -15,6 +15,9 @@ import com.qingshixun.model.Role;
 import com.qingshixun.service.IJurisdictionService;
 import com.qingshixun.service.IRoleService;
 
+/**
+ * idea git 测试
+ */
 @Controller("roleAction")
 @Namespace("/")
 @ParentPackage("UMSPackage")
