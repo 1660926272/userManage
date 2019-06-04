@@ -18,6 +18,9 @@ import com.qingshixun.model.User;
 import com.qingshixun.model.page.PageUser;
 import com.qingshixun.service.IUserService;
 
+/**
+ *
+ */
 @Controller("userAction")
 @Namespace("/")
 @ParentPackage("UMSPackage")
