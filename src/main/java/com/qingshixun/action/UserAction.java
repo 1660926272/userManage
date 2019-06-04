@@ -27,6 +27,8 @@ import com.qingshixun.service.IUserService;
 @Scope("prototype")
 public class UserAction {
 
+
+
 	@Autowired
 	private IUserService userService;
 	
