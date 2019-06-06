@@ -15,7 +15,8 @@ public interface IDepartmentDao {
 	Department querUpDepartment(int updateId);
 	
 	void eidtDepartment(Department department);
-	
+
+
 	void batchDeleteDepartment(List<Integer> checkedId);
 
 }
