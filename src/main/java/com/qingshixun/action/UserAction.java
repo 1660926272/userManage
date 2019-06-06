@@ -31,7 +31,9 @@ public class UserAction {
 	private IUserService userService;
 	
 	private Department department;
-	
+
+
+
 	private List<Role> listRole;
 	
 	private List<Department> listDepartment;
