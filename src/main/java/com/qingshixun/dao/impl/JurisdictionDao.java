@@ -18,7 +18,7 @@ public class JurisdictionDao implements IJurisdictionDao {
 	private SessionFactory sessionFactory;
 
 	/**
-	 * 添加权限信息
+	 * 添加权限信息1231223132123
 	 */
 	@Override
 	public void saveJurisdiction(Jurisdiction jurisdiction) {
